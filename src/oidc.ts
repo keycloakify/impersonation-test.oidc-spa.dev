@@ -3,7 +3,7 @@ import { z } from "zod";
 
 const KC_HTTP_RELATIVE_PATH = ""; // "/auth";
 
-const KEYCLOAK_ROOT_URL = `https://oidc-spa.cloud-iam.com${KC_HTTP_RELATIVE_PATH}`;
+const KEYCLOAK_ROOT_URL = `https://cloud-iam.oidc-spa.dev${KC_HTTP_RELATIVE_PATH}`;
 
 const REALM = "oidc-spa";
 
